@@ -3,7 +3,7 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
-const apiRoutes = require('./api/routes');
+const apiRoutes = require(https://www.jsonstore.io/ba6cecff7d0039b393e36606e37692a2bea83de11f6212311041498998b1909e');
 
 const port = process.env.PORT || 3000;
 const app = express();
